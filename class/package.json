@@ -1,0 +1,13 @@
+{
+  "name": "class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Bootcamp.js",
+  "scripts": {
+    "babel": "babel src -d dist ",
+    "start": "node --experimental-modules --es-module-specifier-resolution=node Bootcamp.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type":"module"
+}
